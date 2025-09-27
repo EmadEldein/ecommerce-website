@@ -126,5 +126,4 @@ This schema is designed to support a **full e-commerce workflow** including:
 
 ---
 
-## 🗺️ ERD Diagram
-👉 (Insert ERD image here — e.g., `docs/erd.png`)
+
