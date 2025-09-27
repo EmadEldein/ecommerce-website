@@ -109,4 +109,22 @@ This schema is designed to support a **full e-commerce workflow** including:
 ### 🚚 Shipping
 - One per order  
 - Fields: `status`, `carrier`, `trackingNumber`  
-- Status: `Pending`, `Shipped`, `Delivered`, `C
+- Status: `Pending`, `Shipped`, `Delivered`, `Canceled` 
+
+### ⭐ Review
+- User reviews a product  
+- Fields: `rating`, `comment`  
+
+### 📝 BlogPost
+- Created by Admin/Assistant  
+- Fields: `title`, `slug`, `content`, `isPublished`  
+- Has comments  
+
+### 💬 BlogComment
+- By any user  
+- Fields: `comment`, `createdAt`, `isVisible`  
+
+---
+
+## 🗺️ ERD Diagram
+👉 (Insert ERD image here — e.g., `docs/erd.png`)
