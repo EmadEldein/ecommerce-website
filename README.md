@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logodark.svg" alt="eco dev. Logo" width="200"/>
+  <img src="logolight.svg" alt="eco dev. Logo" width="200"/>
 </p>
 
 # 🛒 eco dev. E-commerce Database Schema (Prisma)
